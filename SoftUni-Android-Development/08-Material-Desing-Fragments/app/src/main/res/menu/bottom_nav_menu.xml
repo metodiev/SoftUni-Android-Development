@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_feed"
+        android:enabled="true"
+        android:icon="@drawable/feed_0"
+        android:title="@string/feed" />
+
+    <item
+        android:id="@+id/item_scanner"
+        android:icon="@drawable/scanner_0"
+        android:title="@string/scanner"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/item_gifts"
+        android:icon="@drawable/gifts_0"
+        android:title="@string/gifts" />
+
+    <item
+        android:id="@+id/item_profile"
+        android:icon="@drawable/profile_0"
+        android:title="@string/profile"
+        />
+
+</menu>
