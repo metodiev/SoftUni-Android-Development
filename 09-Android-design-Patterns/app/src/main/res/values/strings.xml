@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">09-Android-design-Patterns</string>
+    <string name="barcode_hint">Enter borcode number</string>
+    <string name="search_btn">Search</string>
+    <string name="tv_product_name">Product Name</string>
+    <string name="tv_product_content">Content of the product</string>
+    <string name="textview">Textview</string>
+    <string name="content">Content</string>
+    <string name="search_keyword">Search keyword</string>
+</resources>
